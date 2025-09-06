@@ -1,6 +1,7 @@
-## Hi there 👋
+# Introduction
 
-Hello! My name is Thando Ncube, and I’m currently a student at St. Clair College, pursuing a Computer Programming program. I am part of the Mobile Application Development (MAD) group, where I focus on building innovative and practical mobile solutions. My studies have given me a solid foundation in software development, and I’m passionate about creating applications that provide real-world value while continuously learning and growing as a developer.
+Hello 👋! My name is **Thando Ncube**, and I’m currently a student at **St. Clair College**, pursuing a **Computer Programming** program. I am part of the **Mobile Application Development (MAD) group**, where I focus on building innovative and practical mobile solutions. My studies have given me a solid foundation in software development, and I’m passionate about creating applications that provide real-world value while continuously learning and growing as a developer.
+
 
 ---
 
